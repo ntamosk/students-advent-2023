@@ -5,4 +5,4 @@ This repository is for students exam practice
 1.Clone this repository to your local machine. 
 2.Make changes to the files and push them back to the repository.
 
-```bash
+```bas
